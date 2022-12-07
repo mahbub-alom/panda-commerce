@@ -7,7 +7,7 @@
     border-radius: 8px;
 }
 .carousel-item{
-    padding: 20px 20px;
+    padding: 10px 30px;
 }
 .price{
     color: #ff136f;
@@ -30,7 +30,6 @@
 .cat1{
     background: linear-gradient(to right, #F4C91F, #794407);
     color: white;
-    
 }
 .cat2{
     background:linear-gradient(to right, #ED337D, #80093a );
